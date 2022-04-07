@@ -11,6 +11,20 @@
 .global _startup /* Specify global symbol */
 _startup:
 
+#	ldr R0, =25
+#	ldr R1, =204
+	ldr R0, = 1
+
+label:
+
+#	mov R2, R1
+#	adds R1, R1, R0
+#	bcc label
+
+# (2)
+
+	add R1, R1, R0
+	b label
 
 stop:
 nop

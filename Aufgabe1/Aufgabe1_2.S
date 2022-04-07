@@ -11,7 +11,9 @@
 .global _startup /* Specify global symbol */
 _startup:
 
-
+	ldr R0, =25
+	ldr R1, =204
+	add R2, R1, R0
 
 stop:
 nop

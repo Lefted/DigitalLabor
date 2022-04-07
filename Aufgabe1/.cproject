@@ -79,11 +79,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.833420834.45103368" name="Aufgabe1_1.S" rcbsApplicability="disable" resourcePath="Aufgabe1_1.S" toolsToInvoke="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934.1299621309">
-						<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934.1299621309" name="Cross ARM GNU Assembler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934"/>
+					<fileInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.833420834.620646212" name="Aufgabe1_2.S" rcbsApplicability="disable" resourcePath="Aufgabe1_2.S" toolsToInvoke="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934.892006701">
+						<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934.892006701" name="Cross ARM GNU Assembler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1076587934"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="Aufgabe1_2.S|Aufgabe1_4.S|Aufgabe1_3.S" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Aufgabe1_2.S|Aufgabe1_1.S|Aufgabe1_4.S" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
